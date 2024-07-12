@@ -18,6 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hiitssid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🎯 Roadmaps
+[![roadmap.sh](https://roadmap.sh/card/wide/663350a496279862ae71fcff?variant=dark&roadmaps=javascript%2Cangular%2Creact%2Ctypescript)](https://roadmap.sh)
+
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
